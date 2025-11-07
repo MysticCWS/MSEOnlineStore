@@ -1,0 +1,26 @@
+/mseonlinestore-44d53-firebase-adminsdk-fbsvc-dd0ced71c1.json
+/.env
+.env.local
+.env.*.local
+
+/vendor/
+composer.lock
+
+nbproject/private/
+nbproject/var/
+build/
+dist/
+nbbuild/
+nbdist/
+*.orig
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS (in case shared with Mac users)
+.DS_Store
+
+/xampp/
+/htdocs/test/
+/xamppfiles/
